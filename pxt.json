@@ -1,0 +1,24 @@
+{
+    "name": "MATH PBAT 10TH",
+    "description": "",
+    "dependencies": {
+        "adafruit-circuit-playground-express": "*"
+    },
+    "files": [
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "0.15.4",
+        "targetId": "maker"
+    },
+    "supportedTargets": [
+        "maker"
+    ],
+    "preferredEditor": "pyprj",
+    "languageRestriction": "python-only"
+}
